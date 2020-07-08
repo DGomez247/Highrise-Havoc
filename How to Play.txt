@@ -1,0 +1,9 @@
+Controls
+ 
+Up - W
+Down - S
+Left - A
+Right - d
+escape - in-game menu
+Shooting - Left click
+Aim - Where Mouse points
